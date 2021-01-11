@@ -58,7 +58,7 @@
   }
   
   .hero-section {
-      background-image: url("/img/pexels-kaboompics-com-6194.jpg");
+      background-image: url("pexels-kaboompics-com-6194.jpg");
       height: 80rem;
       background-size: cover;
       background-position: center;
